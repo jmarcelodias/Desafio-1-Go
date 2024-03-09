@@ -1,0 +1,10 @@
+Desafio 1 - GoLand
+
+Link Docker Hub: https://hub.docker.com/repository/docker/jmarcelodias/fullcycle
+
+Para rodar a aplicação, execute o comando:
+
+```bash 
+docker run jmarcelodias/fullcycle
+```
+
